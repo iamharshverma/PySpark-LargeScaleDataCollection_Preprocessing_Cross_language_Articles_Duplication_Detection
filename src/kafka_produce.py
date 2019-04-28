@@ -1,5 +1,6 @@
 import pymongo
 from kafka import KafkaProducer
+import time
 
 
 db = pymongo.MongoClient("mongodb://localhost:27017/")["BDMA_PROJ"]["news_raw"]
@@ -25,6 +26,7 @@ def read_MongoCollection_push_Data_to_kafka(db_name , collection_name, kafka_top
         keyB = bytes(keyS, encoding='utf-8')
         valueB = bytes(valueS, encoding='utf-8')
         kafka_producer.send(kafka_topic, key=keyB, value=valueB)
+        time.sleep(1)
         kafka_producer.flush()
         print("Article from", keyS, "published to Kafka")
         count = count +1

@@ -1,6 +1,15 @@
 import pymongo
 import ufal.udpipe
 from kafka import KafkaConsumer
+from pathlib import Path
+
+def get_project_root() -> Path:
+    """Returns project root folder."""
+    return Path(__file__).parent.parent
+
+root = str(get_project_root())
+
+input_data_path_spanish_model = root + "/Data/spanish_model/"
 
 
 class Model:
@@ -60,7 +69,7 @@ class Model:
 
 if __name__ == "__main__":
     db = pymongo.MongoClient("mongodb://localhost:27017/")["BDMA_PROJ"]["news_parsed"]
-    model = Model('spanish-gsd-ud-2.3-181115.udpipe')
+    model = Model(input_data_path_spanish_model + 'spanish-gsd-ud-2.3-181115.udpipe')
     kafka_topic = 'espanol-news'
     kafka_consumer = KafkaConsumer(kafka_topic, bootstrap_servers=['localhost:9092'])
 
