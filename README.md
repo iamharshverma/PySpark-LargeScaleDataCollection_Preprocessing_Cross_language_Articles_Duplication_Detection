@@ -24,7 +24,6 @@
 ![ppt8](ReportDocumentation/Screenshots/PPT_Screenshots/8.png)
 ![ppt9](ReportDocumentation/Screenshots/PPT_Screenshots/9.png)
 ![ppt10](ReportDocumentation/Screenshots/PPT_Screenshots/10.png)
-![ppt11](ReportDocumentation/Screenshots/PPT_Screenshots/11.png)
 
 **Readme Notes :**
 
