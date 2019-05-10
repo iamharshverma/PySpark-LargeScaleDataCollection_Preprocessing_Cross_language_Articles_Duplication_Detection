@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Usted es mucha bonita chica.
+1	Usted	tú	PRON	_	Case=Acc,Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	5	nsubj	_	_
+2	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	chica	chica	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2
+# text = Te vez muy caliente hoy.
+1	Te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	nmod	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	fixed	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	caliente	caliente	ADJ	_	Number=Sing	0	root	_	_
+5	hoy	har	ADV	_	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+

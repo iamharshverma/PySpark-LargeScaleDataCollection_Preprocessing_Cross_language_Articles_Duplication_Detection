@@ -1,0 +1,16 @@
+crawled List of URLS :
+
+https://www.am.com.mx/leon
+https://www.am.com.mx/guanajuato
+https://www.am.com.mx/lapiedad
+https://www.am.com.mx/celaya
+https://www.am.com.mx/sanfranciscodelrincon
+https://www.elpais.com.co/
+http://www.lapatria.com/
+https://www.diariodequeretaro.com.mx/
+https://www.eloccidental.com.mx/
+https://www.elsoldemexico.com.mx/
+https://www.elsudcaliforniano.com.mx/
+https://www.lavozdelafrontera.com.mx/
+https://elpais.com/cultura/
+https://www.proceso.com.mx/

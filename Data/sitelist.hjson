@@ -1,0 +1,12 @@
+# This is a HJSON-File, so comments and so on can be used! See https://hjson.org/
+# Furthermore this is first of all the actual config file, but as default just filled with examples.
+{
+  # Every URL has to be in an array-object in "base_urls".
+  # The same URL in combination with the same crawler may only appear once in this array.
+  "base_urls" : [
+  {"url":"https://www.am.com.mx/leon"},
+  {"url":"http://www.lapatria.com/"},
+  {"url":"https://www.elpais.com.co/"},
+  {"url":"https://www.proceso.com.mx/"}
+  ]
+}

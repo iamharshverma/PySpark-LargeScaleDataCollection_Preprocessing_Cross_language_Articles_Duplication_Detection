@@ -1,0 +1,10 @@
+Installation using command prompt
+$ pip3 install news-please 
+
+Crawling
+1. Go to command prompt and type news-please
+2. For the first crawl it will ask you whether you want a news-please repository to be created. Give permission to create a new repository.
+3. The results and scripts will be stored in this repository.
+4. In the data folder the html and json files will be created.
+5. sitelist.hjson file is the file where you need to specify the url's to be crawled.
+I have provided a sample sitelist.hjson file and another file which specifies the urls which can be crawled. 
