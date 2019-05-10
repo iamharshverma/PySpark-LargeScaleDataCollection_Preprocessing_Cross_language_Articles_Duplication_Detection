@@ -1,2 +1,27 @@
-# News_Duplication
-https://docs.google.com/viewer?url=https://github.com/iamharshverma/News_Duplication/blob/master/ReportDocumentation/Report/Final_Project_Big_Data_Report.pdf
+![ppt1](ReportDocumentation/Screenshots/PPT_Screenshots/1.png)
+![1](ReportDocumentation/Screenshots/Report_Screenshots/1.png)
+![2](ReportDocumentation/Screenshots/Report_Screenshots/2.png)
+![3](ReportDocumentation/Screenshots/Report_Screenshots/3.png)
+![4](ReportDocumentation/Screenshots/Report_Screenshots/4.png)
+![5](ReportDocumentation/Screenshots/Report_Screenshots/5.png)
+![6](ReportDocumentation/Screenshots/Report_Screenshots/6.png)
+![7](ReportDocumentation/Screenshots/Report_Screenshots/7.png)
+![8](ReportDocumentation/Screenshots/Report_Screenshots/8.png)
+![9](ReportDocumentation/Screenshots/Report_Screenshots/9.png)
+![10](ReportDocumentation/Screenshots/Report_Screenshots/10.png)
+![11](ReportDocumentation/Screenshots/Report_Screenshots/11.png)
+![12](ReportDocumentation/Screenshots/Report_Screenshots/12.png)
+![13](ReportDocumentation/Screenshots/Report_Screenshots/13.png)
+
+**Project Full Architecture**
+![ppt2](ReportDocumentation/Screenshots/PPT_Screenshots/2.png)
+
+**Spanish and English Articles Duplication Algorithm and Metrics Results Discussion**
+![ppt4](ReportDocumentation/Screenshots/PPT_Screenshots/4.png)
+![ppt5](ReportDocumentation/Screenshots/PPT_Screenshots/5.png)
+![ppt6](ReportDocumentation/Screenshots/PPT_Screenshots/6.png)
+![ppt7](ReportDocumentation/Screenshots/PPT_Screenshots/7.png)
+![ppt8](ReportDocumentation/Screenshots/PPT_Screenshots/8.png)
+![ppt9](ReportDocumentation/Screenshots/PPT_Screenshots/9.png)
+![ppt10](ReportDocumentation/Screenshots/PPT_Screenshots/10.png)
+![ppt11](ReportDocumentation/Screenshots/PPT_Screenshots/11.png)
